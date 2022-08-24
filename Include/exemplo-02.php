@@ -8,4 +8,6 @@ $resultado = somar(10, 20);
 
 echo $resultado;
 
+// TODO fazer um estudo melhor sobre este código
+
 ?>

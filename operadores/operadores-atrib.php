@@ -101,7 +101,7 @@
 // $a = 10;
 // $b = 20;
 
-// TODO pegar melhor esse conceito var_dump($a <=> $b); //se $a for menor que $b, retorna -1, se $a for maior que $b, retorna 1, se $a e $b forem iguais, retorna 0
+// pegar melhor esse conceito var_dump($a <=> $b); //se $a for menor que $b, retorna -1, se $a for maior que $b, retorna 1, se $a e $b forem iguais, retorna 0
 
 
 

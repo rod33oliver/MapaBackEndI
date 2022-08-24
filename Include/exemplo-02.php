@@ -8,6 +8,6 @@ $resultado = somar(50, 990);
 
 echo $resultado;
 
-// TODO fazer um estudo melhor sobre este código
+// fazer um estudo melhor sobre este código. Pelo console de depuração deu certo, porém pelo servidor apache, não.
 
 ?>

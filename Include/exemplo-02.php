@@ -4,7 +4,7 @@
 
 require "exemplo-01.php";
 
-$resultado = somar(10, 20);
+$resultado = somar(50, 990);
 
 echo $resultado;
 

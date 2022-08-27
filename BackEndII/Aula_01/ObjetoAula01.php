@@ -6,6 +6,7 @@ include("aula01.php");
 
 $objetoProduto = new Produto();
 
-Echo $objetoProduto
-
+var_dump $objetoProduto
+//edição feita no PHP Storm
+//TODO - fazer o teste do objeto
   ?>

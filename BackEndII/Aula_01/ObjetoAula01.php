@@ -1,13 +1,13 @@
 <?php
 
-include("aula01.php");
+include("Produto.php");
 
 //instanciar o objeto
 
 //edição feita no PHP Storm
 //TODO - fazer o teste do objeto
   
-  require_once("Produto.php");
+*/ require_once("Produto.php"); /*
 
 //instanciar o objeto
 
@@ -22,9 +22,11 @@ echo "Produto: " . $objetoProduto->getNome();*/
 $objetoProduto->nome = "Teclado";
 $objetoProduto->codigo = 458;
 $objetoProduto->preco = 54.89;
-/*echo $objetoProduto->codigo;
+
+echo $objetoProduto->codigo;
 echo " - " . $objetoProduto->nome;
 echo " - " . $objetoProduto->preco;*/
 
-var_dump($objetoProduto);
-  ?>
+//var_dump($objetoProduto);
+
+
